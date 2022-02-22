@@ -1,7 +1,6 @@
 # Summary
 
 * [소개](g3doc/index.md)
-    * [TypeScript를 사용하는 이유]
 <!-- * [환경 구성 / CLI](g3doc/cli/index.md)
     * [다운로드 및 설치](g3doc/cli/os_setup.md)
     * [기본적인 사용법](g3doc/cli/basic_usage.md)
